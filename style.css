@@ -1,0 +1,71 @@
+body {
+    background-color:cadetblue;
+    background-image: url("three-liquor-bottles-and-cocktail-drink-on-bar-counter.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1022px;
+}
+
+header {
+    height: 128px;
+    text-align: right;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.288);
+    height: 40px; 
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.349);
+    height: 100px; 
+    width: 1024px; 
+}
+a {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif; 
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ 
+p {
+    font-size: 18px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+footer p {
+    font-size: 15px;
+    text-align: center;
+    color: rgb(151, 151, 151);
+}
+
+h1 {
+    font-size: 84px;
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
